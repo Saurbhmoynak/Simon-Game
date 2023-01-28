@@ -62,7 +62,7 @@ body {
   }
 
   .container {
-    display: block;
+    display: inline-block;
     width: 70%;
     margin: auto;
   
